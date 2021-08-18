@@ -23,12 +23,13 @@ const WhiteBackground = styled.div`
 
 // 해더의 내용
 const HeaderContents = styled.div`
-    width: 1200px;
+    position: relative;
+    width: 100%;
     height: 120px;
     display: flex;
     flex-direction: row;
     align-items: center;
-
+    
     padding-right: 1rem;
     padding-left: 1rem;
         width: 992px;
@@ -59,6 +60,7 @@ const Header = ({children}) => {
         <Positioner>
             <WhiteBackground>
                 <HeaderContents>
+                    <Spacer/>
                  <img alt='logo' className='logo' src={logo} />
                  <Logo>안심거리·지킴이집 길라잡이</Logo>
                     <Spacer/>
