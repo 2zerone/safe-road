@@ -9,6 +9,7 @@ export const Positioner = styled.div`
     top: 0px;
     width: 100%;
     height: 150px;
+    z-index: 1;
 `;
 
 // 흰 배경, 내용 중간 정렬
