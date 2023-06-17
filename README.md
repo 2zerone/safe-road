@@ -12,6 +12,15 @@
 <br>
 <br>
 
+### ▶️ 구동 영상 
+https://youtu.be/mPN-k1ePtmw
+
+<br>
+
+### ▶️ 페이지 둘러보기 
+https://201safe.netlify.app/
+
+<br>
 
 ## 👨‍👨‍👧‍👧 팀 소개 
 <br>
@@ -24,44 +33,39 @@
 |------|---|---|
 |프론트|이영한|[2zerone](https://github.com/2zerone)|
 |프론트|한지은|[onezeun](https://github.com/onezeun)|
-|백|주지운|[zu21un](https://github.com/zu21un)|
-|백|이혜지|[modsiw](https://github.com/zzambbang)|
-|백|김태완|[taewannn](https://github.com/taewannn)|
+|데이터|주지운|[zu21un](https://github.com/zu21un)|
+|데이터|이혜지|[modsiw](https://github.com/zzambbang)|
+|데이터|김태완|[taewannn](https://github.com/taewannn)|
+
+<br>
+<br>
+<br>
 
 ## 🛠 사용 기술 스택
 <br>
 
-```
-Front-end
-``` 
-
-* React
-* HTML 
-* CSS
-
+![tech stack](https://user-images.githubusercontent.com/83628242/132540611-e118459f-59c6-4cdd-a0a8-33b4ec27f5c6.jpg)
+<br>
+[![Netlify Status](https://api.netlify.com/api/v1/badges/5e81d29e-5e8a-4aa1-aad4-021a6d6fca6e/deploy-status)](https://app.netlify.com/sites/201safe/deploys)
+<br>
+<br>
 <br>
 
-```
-Back-end
-```
-
-* Django
-* Python 3
-* PostgreSQL 11
-
+## 🔧 Web Architecture
 <br>
 
-```
-deploy
-```
+![web architecture](https://user-images.githubusercontent.com/83628242/132539213-b7f5b44a-38f9-494b-848a-c81513c99737.PNG)
 
-* AWS EC2(Linux)
-
-
+<br>
+<br>
 <br>
 
 ## ⚙ 핵심 기능
+![주요기능](https://user-images.githubusercontent.com/50399088/132606650-d6d11bd1-b476-4f32-b47a-ff2a71c23503.png)
+
+![주요기능](https://user-images.githubusercontent.com/50399088/132606673-5a336685-eb32-4572-8118-94d191644265.png)
 
 
 
 ## 회고 
+기술선택을 하기 이전에 충분한 근거와 이유를 찾는것이 큰 교훈이었다.
