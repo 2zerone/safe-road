@@ -19,6 +19,7 @@ https://youtu.be/mPN-k1ePtmw
 
 ### ▶️ 페이지 둘러보기 
 https://201safe.netlify.app/
+(최종 수정 배포 전)
 
 <br>
 
